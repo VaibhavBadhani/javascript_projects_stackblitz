@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #212121;
+}
+/* .boxes {
+} */
+span {
+  display: block;
+}
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+#grey {
+  background-color: gray;
+}
+#blue {
+  background-color: blue;
+}
+#white {
+  background-color: white;
+}
+#yellow {
+  background-color: yellow;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
