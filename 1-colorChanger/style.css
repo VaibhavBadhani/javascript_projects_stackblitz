@@ -3,6 +3,11 @@
 }
 body {
   background-color: #212121;
+  width: 300px;
+  max-width: 750px;
+  min-width: 480px;
+  margin: 0 auto;
+ 
 }
 /* .boxes {
 } */
