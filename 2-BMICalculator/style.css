@@ -76,3 +76,10 @@ body {
   font-size: 20px;
   color: black;
 }
+body {
+  width: 300px;
+  max-width: 750px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: #212121;
+}
