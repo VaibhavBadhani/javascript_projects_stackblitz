@@ -8,6 +8,9 @@ nav a {
     text-decoration: none;
     color: #1b1b1b;
   }
+  * {
+    box-sizing: border-box;
+  }
   nav {
     display: flex;
     flex-wrap: wrap;
